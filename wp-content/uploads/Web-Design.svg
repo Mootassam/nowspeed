@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="78.081" height="62" viewBox="0 0 78.081 62">
+  <g id="Group_298" data-name="Group 298" transform="translate(-15047.003 -2249.003)">
+    <path id="Path_169" data-name="Path 169" d="M92.561,53.343H124.22a4.6,4.6,0,0,0,4.589-4.605V8.608A4.6,4.6,0,0,0,124.22,4h-52.9a4.6,4.6,0,0,0-4.605,4.605V19.4" transform="translate(14995.274 2246)" fill="rgba(0,0,0,0)"></path>
+    <path id="Path_169_-_Outline" data-name="Path 169 - Outline" d="M124.22,54.343H92.561v-2H124.22a3.6,3.6,0,0,0,3.589-3.605V8.608A3.6,3.6,0,0,0,124.22,5h-52.9a3.609,3.609,0,0,0-3.605,3.605V19.4h-2V8.608A5.612,5.612,0,0,1,71.321,3h52.9a5.6,5.6,0,0,1,5.589,5.605V48.737A5.6,5.6,0,0,1,124.22,54.343Z" transform="translate(14995.274 2246)" fill="#fff"></path>
+    <path id="Line_64" data-name="Line 64" d="M22.286,1H0V-1H22.286Z" transform="translate(15083.664 2310.002)" fill="#fff"></path>
+    <path id="Line_65" data-name="Line 65" d="M1,.032H-1V0H1Z" transform="translate(15084.213 2309.971)" fill="#fff"></path>
+    <path id="Line_66" data-name="Line 66" d="M1.229,10.867-.979.2.979-.2,3.187,10.462Z" transform="translate(15099.664 2299.337)" fill="#fff"></path>
+    <path id="Line_67" data-name="Line 67" d="M36.248,1H0V-1H36.248Z" transform="translate(15087.835 2291.227)" fill="#fff"></path>
+    <path id="Line_68" data-name="Line 68" d="M.922,1H0V-1H.922Z" transform="translate(15092.58 2295.391)" fill="#fff"></path>
+    <path id="Path_170" data-name="Path 170" d="M36.013,117.632H61.294a4.171,4.171,0,0,0,4.171-4.171V77.2a4.171,4.171,0,0,0-4.171-4.171H36.013A4.171,4.171,0,0,0,31.842,77.2v9.42" transform="translate(15022.37 2192.37)" fill="rgba(0,0,0,0)"></path>
+    <path id="Path_170_-_Outline" data-name="Path 170 - Outline" d="M61.294,118.632H36.013v-2H61.294a3.174,3.174,0,0,0,3.171-3.171V77.2a3.174,3.174,0,0,0-3.171-3.171H36.013A3.174,3.174,0,0,0,32.842,77.2v9.42h-2V77.2a5.177,5.177,0,0,1,5.171-5.171H61.294A5.177,5.177,0,0,1,66.465,77.2v36.264A5.177,5.177,0,0,1,61.294,118.632Z" transform="translate(15022.37 2192.37)" fill="#fff"></path>
+    <rect id="Rectangle_98" data-name="Rectangle 98" width="19.085" height="31.013" transform="translate(15048.003 2278.989)" fill="rgba(0,0,0,0)"></rect>
+    <path id="Rectangle_98_-_Outline" data-name="Rectangle 98 - Outline" d="M-1-1H20.085V32.013H-1ZM18.085,1H1V30.013H18.085Z" transform="translate(15048.003 2278.989)" fill="#fff"></path>
+    <path id="Line_69" data-name="Line 69" d="M4.115,1H0V-1H4.115Z" transform="translate(15068.967 2269.744)" fill="#fff"></path>
+    <path id="Line_70" data-name="Line 70" d="M2.147,1H0V-1H2.147Z" transform="translate(15056.472 2282.686)" fill="#fff"></path>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="61.998" height="62" viewBox="0 0 61.998 62">
+  <g id="Group_294" data-name="Group 294" transform="translate(-15027.002 -2114.003)">
+    <path id="Path_146" data-name="Path 146" d="M138.8,9.861,133.81,4.867a2.951,2.951,0,0,0-4.173,0l-30.2,30.2-1.573,10.74,10.74-1.573,30.2-30.2A2.951,2.951,0,0,0,138.8,9.861Z" transform="translate(14948.334 2111)" fill="rgba(0,0,0,0)"></path>
+    <path id="Path_146_-_Outline" data-name="Path 146 - Outline" d="M131.724,3a3.925,3.925,0,0,1,2.793,1.157l4.994,4.993a3.955,3.955,0,0,1,0,5.587L109.076,45.176l-12.4,1.816,1.816-12.4L128.931,4.16A3.925,3.925,0,0,1,131.724,3ZM108.13,43.294,138.1,13.326a1.953,1.953,0,0,0,0-2.759L133.1,5.574a1.951,1.951,0,0,0-2.759,0L100.378,35.541l-1.331,9.083Z" transform="translate(14948.334 2111)" fill="#fff"></path>
+    <path id="Line_58" data-name="Line 58" d="M8.461,9.875-.707.707.707-.707,9.875,8.461Z" transform="translate(15074.532 2119.304)" fill="#fff"></path>
+    <path id="Line_59" data-name="Line 59" d="M8.448,9.862-.707.707.707-.707,9.862,8.448Z" transform="translate(15070.981 2122.868)" fill="#fff"></path>
+    <path id="Line_60" data-name="Line 60" d="M8.459,9.874-.707.707.707-.707,9.874,8.459Z" transform="translate(15047.77 2146.068)" fill="#fff"></path>
+    <path id="Path_147" data-name="Path 147" d="M57.723,49.957V85.616a4.5,4.5,0,0,1-4.5,4.5H8.5a4.5,4.5,0,0,1-4.5-4.5V40.9a4.5,4.5,0,0,1,4.5-4.5H44.161" transform="translate(15024 2084.887)" fill="rgba(0,0,0,0)"></path>
+    <path id="Path_147_-_Outline" data-name="Path 147 - Outline" d="M53.223,91.116H8.5a5.506,5.506,0,0,1-5.5-5.5V40.9a5.506,5.506,0,0,1,5.5-5.5H44.161v2H8.5A3.5,3.5,0,0,0,5,40.9V85.616a3.5,3.5,0,0,0,3.5,3.5H53.223a3.5,3.5,0,0,0,3.5-3.5V49.957h2V85.616A5.506,5.506,0,0,1,53.223,91.116Z" transform="translate(15024 2084.887)" fill="#fff"></path>
+  </g>
+</svg>
